@@ -4,7 +4,7 @@ This project is an interactive Excel dashboard developed to analyze car sales pe
 
 The project demonstrates my ability to clean, transform, analyze, and visualize data using Microsoft Excel, Power Query, Pivot Tables, and Dashboard Design techniques.
 ## Project Access 
-[Check out my work here](Car-sales-dashboard)
+[Check out my work here](Car_sales_dashboard)
 
 ## Business Objectives
 The objectives of this analysis were to:
