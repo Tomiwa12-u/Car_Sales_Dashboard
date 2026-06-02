@@ -97,3 +97,5 @@ Through this project, I strengthened my skills in:
 * Business Intelligence Reporting
 * Data Visualization
 * Insight Generation
+## Conclusion
+This project demonstrates how Excel can be used as a powerful business intelligence tool to transform raw data into actionable insights. By combining Power Query, Pivot Tables, and dashboard design techniques, I created an interactive reporting solution that supports effective decision-making.
